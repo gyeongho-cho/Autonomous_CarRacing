@@ -37,7 +37,8 @@ conda activate RL_term
 
 ```
 pip install pygame
-conda install -c conda-forge box2D-python
+conda install swig
+pip install box2d-py
 pip install gym==0.23.1
 ```
 **c. Download repository.**
@@ -47,6 +48,6 @@ cd Autonomous_CarRacing
 ```
 **d. Run tutorial (Manual Control).**
 ```
-pyhton ./tutorial_manual_control.py
+python ./tutorial_manual_control.py
 ```
 

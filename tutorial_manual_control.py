@@ -71,7 +71,7 @@ init_vel = 80
 
 is_pressed = [False]*5 # [up, down, left, right, esc]
 
-while True:
+for i in range(1):
     env.reset(options = {'init_vel': init_vel})
     
     steer = 0.

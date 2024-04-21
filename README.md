@@ -5,6 +5,8 @@ This repo is made for term project of Pusan National University AI system lectur
 <div align=center>
 <img src="./figs/RLenv.png" width="400px">
 
+| | |
+| --- | --- |
 | Action Space | Box([-1. 0. 0.], 1.0, (3,), float32)|
 |Observation Shape|(22,)|
 |Observation High|(50.,...,50., 1., 1.)|

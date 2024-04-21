@@ -24,7 +24,7 @@ This repo is made for term project of Pusan National University AI system lectur
 - **Brake** : 1 is full brake and 0 is none.
 
 ### Rewards
-In this repo, there are no rewards. The user has to create rewards based on observations and actions.
+- In this repo, there are no rewards. The user has to create rewards based on observations and actions.
 
 ## Getting started
 

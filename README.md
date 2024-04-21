@@ -37,7 +37,7 @@ conda activate RL_term
 
 ```
 pip install pygame
-conda install -c conda-forge Box2D
+conda install -c conda-forge box2D-python
 pip install gym==0.23.1
 ```
 **c. Download repository.**

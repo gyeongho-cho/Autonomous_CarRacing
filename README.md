@@ -1,5 +1,5 @@
 # Autonomous CarRacing
-This repo is made for term project of Pusan National University AI system lecture. The environment code is created by modifying `CarRacing-V1` of OpenAI gym library.
+This repo is made for RL term project of Pusan National University AI system lecture. The environment code is created by modifying `CarRacing-V1` of OpenAI gym library.
 
 ## Introduction
 <div align=center>

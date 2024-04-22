@@ -7,7 +7,9 @@ This repo is made for term project of Pusan National University AI system lectur
 
 | | |
 | --- | --- |
-| Action Space | Box([-1. 0. 0.], 1.0, (3,), float32)|
+| Action Shape | (1,)|
+| Action High | (1.)|
+| Action Low | (-1.)|
 |Observation Shape|(22,)|
 |Observation High|(50.,...,50., 1., 1.)|
 |Observation Low|(-50.,...,-50., -1., -1.)|
@@ -18,10 +20,8 @@ This repo is made for term project of Pusan National University AI system lectur
 - **Steering Angle (observation[20])** :  21st signal is steering angle. (Range: -1 to 1)
 - **Goal State (observation[21])** : The last signal indicates the goal state. (-1:crush, 0:normal, 1:goal)
 
-### Action Space (Same with original ver.)
+### Action Space 
 - **Steering Angle** : -1 is full left, +1 is full right.
-- **Acceleration** : 1 is full accel and 0 is none.
-- **Brake** : 1 is full brake and 0 is none.
 
 ### Rewards
 - In this repo, there are no rewards. The user has to create rewards based on observations and actions.

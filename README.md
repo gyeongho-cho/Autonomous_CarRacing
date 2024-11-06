@@ -53,9 +53,5 @@ python ./tutorial_manual_control.py
 
 ## DQN Result
 
-<div style="text-align: center;">
-<video width="640" height="400" controls>
-  <source src="./figs/dqn_result.mp4" type="video/mp4">
-</video>
-</div> 
+![](figs/dqn_result.gif)
 

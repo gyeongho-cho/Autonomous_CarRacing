@@ -5,7 +5,7 @@ This repo was made for RL term project of Pusan National University AI system le
 <div align=center>
 <img src="./figs/RLenv.png" width="400px">
 
-| | |
+| name | info |
 | --- | --- |
 | Action Shape | (1,)|
 | Action High | (1.)|
@@ -50,4 +50,12 @@ cd Autonomous_CarRacing
 ```
 python ./tutorial_manual_control.py
 ```
+
+## DQN Result
+
+<div style="text-align: center;">
+<video width="640" height="400" controls>
+  <source src="figs/dqn_result.mp4" type="video/mp4">
+</video>
+</div> 
 

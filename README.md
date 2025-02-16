@@ -10,8 +10,17 @@
 This repo was made for RL term project of Pusan National University AI system lecture. The environment code was created by modifying `CarRacing-V1` of OpenAI gym library.
 
 ## Introduction
+
+### Modifications
 <div align=center>
+
 <img src="./figs/RLenv.png" width="400px">
+</div>
+
+- Implemented LiDAR sensors with raycast.
+- Added Guardrails.
+
+<div align=center>
 
 | name | info |
 | --- | --- |

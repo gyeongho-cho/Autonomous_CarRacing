@@ -54,6 +54,8 @@ python ./tutorial_manual_control.py
 ## DQN Result
 
 <div align=center>
+  
 ![](figs/dqn_result.gif)
+
 </div>
 
